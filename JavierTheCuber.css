@@ -1,0 +1,40 @@
+body{
+   text-align: center;
+   font-family: Futura;
+   color: black;
+}
+
+h1{
+   text-align: center;
+   color: black;
+   font-family: Futura;
+   background-color: #87ceeb;
+   border: 10px black solid;
+   height: 140px;
+   width: 300px;
+   margin: 0 auto;
+   padding: 5px 50px;
+   font-size: 55px;
+}
+
+.MyMains {
+   font-family: Futura;
+   background-color: #87ceeb;
+   border: 5px black solid;
+   height: 55px;
+   width: 300px;
+   margin: 0 auto;
+   padding: 5px 50px;
+   font-size: 40px;
+}
+
+.MyLiveSubscriberCount {
+   font-family: Futura;
+   background-color: #87ceeb;
+   border: 5px black solid;
+   height: 100px;
+   width: 380px;
+   margin: 0 auto;
+   padding: 5px 50px;
+   font-size: 40px;
+}
