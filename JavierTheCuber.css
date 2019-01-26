@@ -2,6 +2,11 @@ body{
    text-align: center;
    font-family: Futura;
    color: black;
+   background: #696969;
+}
+
+body{
+   color: black;
 }
 
 h1{
